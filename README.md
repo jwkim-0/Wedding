@@ -6,7 +6,7 @@
 
 ## Product
 
-[http://wedding.ohkyun.kim](http://wedding.ohkyun.kim)
+[https://jwkim-0.github.io/Wedding/](https://jwkim-0.github.io/Wedding/)
 
 ## License
 
