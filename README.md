@@ -1,16 +1,19 @@
 # wedding
 
 ## Origin
+
 [https://www.free-css.com/free-css-templates/page227/wedding](https://www.free-css.com/free-css-templates/page227/wedding)
 
 ## Product
+
 [http://wedding.ohkyun.kim](http://wedding.ohkyun.kim)
 
 ## License
+
 Wedding Invitation is licensed under the Apache License, Version 2.0.
 See [LICENSE](LICENSE.txt) for full license text.
 
-        @Author Ohkyun Kim, Jeongim Kwon
+        @Author Jaewook Kim, Joohee Kwak
 
         Licensed under the Apache License, Version 2.0 (the "License");
         you may not use this file except in compliance with the License.
