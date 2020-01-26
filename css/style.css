@@ -363,7 +363,7 @@ figure {
 
 .fh5co-cover>.fh5co-container {
   position: relative;
-  z-index: 10;
+  z-index: 0;
 }
 
 @media screen and (max-width: 768px) {
