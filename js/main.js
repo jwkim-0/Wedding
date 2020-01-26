@@ -821,7 +821,7 @@
 
 	var initNaverMap = function() {
 		var HOME_PATH = window.HOME_PATH || '.';
-		var position = new naver.maps.LatLng(37.559473, 127.041575);
+		var position = new naver.maps.LatLng(37.567538, 126.970004);
 		var mapOptions = {
 			center: position,
 			zoom: 12,
