@@ -344,7 +344,7 @@ figure {
 
 .fh5co-cover {
   height: auto;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position-x: center !important;
   position: relative;
