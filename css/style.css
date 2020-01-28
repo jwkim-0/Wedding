@@ -1052,10 +1052,37 @@ form label {
   }
 }
 
+#fh5co-couple-story span {
+  font-family: "ISOCTEUR";
+  font-size: 16px;
+  font-weight: normal;
+  color: #828282;
+}
+
+#fh5co-couple-story a {
+  font-family: 'Noto Serif KR', serif;
+  font-size: 16px;
+  font-weight: 19px;
+  color: #2e6d87;
+}
+
+#fh5co-couple-story h3 {
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 500;
+  color: #2e6d87;
+}
+
+#fh5co-couple-story p {
+  font-family: 'Noto Serif KR', serif;
+  font-size: 16px;
+  font-weight: 19px;
+}
+
 #fh5co-couple span {
-  font-family: ISOCTEUR;
+  font-family: "ISOCTEUR";
   font-size: 16px;
   font-weight: lighter;
+  color: #2e6d87;
 }
 
 #fh5co-counter .icon {
@@ -1195,6 +1222,11 @@ form label {
   #fh5co-direction {
     padding: 2em 0 0 0;
   }
+}
+
+.fh5co-couple-story-head {
+  background: rgba(0, 0, 0, 0.04);
+  padding: 20px;
 }
 
 .fh5co-section-gray {
@@ -1381,7 +1413,7 @@ form label {
 }
 
 .fh5co-heading {
-  margin-bottom: 5em;
+  margin-bottom: 1em;
 }
 
 .fh5co-heading.fh5co-heading-sm {
