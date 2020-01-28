@@ -1,18 +1,10 @@
-@font-face {
-  font-family: 'icomoon';
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx");
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
 /* =======================================================
 *
 * 	Template Style 
 *
 * ======================================================= */
 body {
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: "ISOCTEUR";
   font-weight: 300;
   font-size: 16px;
   line-height: 1.7;
@@ -50,7 +42,7 @@ body {
 }
 
 a {
-  color: #FF6D70;
+  color: #9ba0a2;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -59,14 +51,11 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #FF6D70;
+  color: #9ba0a2;
   outline: none;
   text-decoration: none;
 }
 
-p {
-  margin-bottom: 20px;
-}
 
 h1,
 h2,
@@ -427,10 +416,6 @@ figure {
   width: 100%;
 }
 
-#fh5co-counter .fh5co-heading h2,
-#fh5co-event .fh5co-heading h2 {
-  color: #FF6D70;
-}
 
 #fh5co-counter .fh5co-heading span,
 #fh5co-event .fh5co-heading span {
@@ -476,7 +461,7 @@ figure {
 
 #fh5co-counter .event-wrap,
 #fh5co-event .event-wrap {
-  border: 2.2px solid rgba(255, 109, 112, 0.7);
+  border: 2.2px solid black;
   background: rgba(50, 50, 50, 0.1);
   padding: 30px;
   width: 100%;
@@ -499,7 +484,7 @@ figure {
 #fh5co-event .event-wrap h3 {
   font-size: 20px;
   color: #fff;
-  border-bottom: 1px solid rgba(255, 109, 112, 0.6);
+  border-bottom: 1px solid black;
   display: block;
   padding-bottom: 20px;
   text-transform: uppercase;
@@ -910,7 +895,7 @@ figure {
   position: absolute;
   left: 0;
   top: .05em;
-  font-family: 'icomoon';
+  /* font-family: 'icomoon'; */
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -976,7 +961,7 @@ form label {
   margin-bottom: 0px;
   font-size: 100px;
   line-height: 1.5;
-  font-family: "Amatic SC", Arial, serif;
+  /* font-family: "Amatic SC", Arial, serif; */
 }
 
 @media screen and (max-width: 768px) {
@@ -1065,6 +1050,12 @@ form label {
   #fh5co-counter .feature-center {
     margin-bottom: 50px;
   }
+}
+
+#fh5co-couple span {
+  font-family: ISOCTEUR;
+  font-size: 16px;
+  font-weight: lighter;
 }
 
 #fh5co-counter .icon {
@@ -1235,7 +1226,7 @@ form label {
   font-size: 20px;
   background: #fff;
   padding: 20px;
-  color: #FF6D70;
+  color: #9ba0a2;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1260,8 +1251,8 @@ form label {
 }
 
 .couple-half h3 {
-  font-family: "Amatic SC", Arial, serif;
-  color: #FF6D70;
+  /* font-family: "Amatic SC", Arial, serif; */
+  color: #9ba0a2;
   font-size: 30px;
 }
 
@@ -1397,30 +1388,24 @@ form label {
   margin-bottom: 2em;
 }
 
-.fh5co-heading h2 {
-  font-size: 60px;
-  margin-bottom: 10px;
-  line-height: 1.5;
-  font-weight: bold;
-  color: #FF6D70;
-  font-family: "Amatic SC", Arial, serif;
-}
-
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
     font-size: 40px;
   }
 }
 
-.fh5co-heading p {
-  font-size: 18px;
+.fh5co-heading a {
+  /* margin-top: 30px; */
+  font-size: 15px;
   line-height: 1.5;
+  font-weight: bold;
   color: #828282;
 }
 
 .fh5co-heading span {
-  text-transform: uppercase;
-  font-size: 13px;
+  /* text-transform: uppercase; */
+  font-family: "ISOCTEUR";
+  font-size: 25px;
   letter-spacing: 2px;
   font-weight: 600;
   color: rgba(0, 0, 0, 0.4);
@@ -1748,7 +1733,7 @@ form label {
 #fh5co-offcanvas ul li.offcanvas-has-dropdown>a:after {
   position: absolute;
   right: 0px;
-  font-family: 'icomoon';
+  /* font-family: 'icomoon'; */
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -1940,7 +1925,7 @@ form label {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Noto Sans KR", Arial, sans-serif;
+  /* font-family: "Noto Sans KR", Arial, sans-serif; */
   font-size: 16px;
   font-weight: 300;
   -webkit-border-radius: 30px;
@@ -2186,7 +2171,7 @@ form label {
 #fh5co-direction h3 {
   font-size: 24px;
   margin-left: 10px;
-  color: #FF6D70;
+  color: black;
 }
 
 #fh5co-direction h4 {
