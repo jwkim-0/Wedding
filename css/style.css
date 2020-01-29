@@ -306,8 +306,9 @@ figure {
 
   #fh5co-counter .event-wrap,
   #fh5co-event .event-wrap {
-    border: 2.2px solid black;
-    background: rgba(50, 50, 50, 0.1);
+    border: 2.2px solid #2e6d87;
+    ;
+    /* background: rgba(50, 50, 50, 0.1); */
     padding: 30px;
     width: 100%;
     float: left;
@@ -329,7 +330,8 @@ figure {
   #fh5co-event .event-wrap h3 {
     font-size: 20px;
     color: #fff;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #2e6d87;
+    ;
     display: block;
     padding-bottom: 20px;
     text-transform: uppercase;
@@ -506,6 +508,7 @@ figure {
 
   .timeline-title {
     margin-top: 0;
+    font-size: 16px;
   }
 
   .date {
@@ -1039,6 +1042,10 @@ figure {
 
   #fh5co-map {
     padding: 7em 0 0 0;
+  }
+
+  #fh5co-map h3 {
+    color: #2e6d87;
   }
 
   #fh5co-direction {
