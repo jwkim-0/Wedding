@@ -836,7 +836,7 @@
 			position: position,
 			icon: {
 				url: HOME_PATH + '/images/heart_marker_coral.png',
-				scaledSize: new naver.maps.Size(50, 69)
+				scaledSize: new naver.maps.Size(50, 100)
 			},
 			animation: naver.maps.Animation.BOUNCE
 		});
