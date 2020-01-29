@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'ISOCTEUR';
-    src: url('fonts/ISOCTEUR.eot');
-    src: url('fonts/ISOCTEUR.eot?#iefix') format('embedded-opentype'),
-        url('fonts/ISOCTEUR.svg#ISOCTEUR') format('svg'),
-        url('fonts/ISOCTEUR.ttf') format('truetype'),
-        url('fonts/ISOCTEUR.woff') format('woff'),
-        url('fonts/ISOCTEUR.woff2') format('woff2');
+    src: url('fonts/ISOCTEUR/ISOCTEUR.eot');
+    src: url('fonts/ISOCTEUR/ISOCTEUR.eot?#iefix') format('embedded-opentype'),
+        url('fonts/ISOCTEUR/ISOCTEUR.svg#ISOCTEUR') format('svg'),
+        url('fonts/ISOCTEUR/ISOCTEUR.ttf') format('truetype'),
+        url('fonts/ISOCTEUR/ISOCTEUR.woff') format('woff'),
+        url('fonts/ISOCTEUR/ISOCTEUR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
