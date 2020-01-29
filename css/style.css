@@ -1264,6 +1264,10 @@ figure {
     color: #5d5d5d;
   }
 
+  .js-gomap {
+    font-weight: bold;
+  }
+
   .fh5co-heading {
     margin-bottom: 1em;
     font-family: 'Noto Serif KR', serif;
